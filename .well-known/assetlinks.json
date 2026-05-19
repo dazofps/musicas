@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.dazofps.twa",
+    "sha256_cert_fingerprints": ["55:EC:AF:C8:FF:ED:52:B5:CC:8E:59:13:74:5D:82:C7:4D:85:F4:81:65:76:A3:43:1A:56:34:AC:D4:19:66:7D"]
+  }
+}]
